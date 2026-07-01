@@ -1,0 +1,113 @@
+<div align="center">
+
+# 👋 Hi, I'm Darshan K
+### SOC Analyst | Blue Team | Threat Detection & Incident Response
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshank404)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@darshan331740_89257)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Darshan331740)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MIKEYSAN040)
+
+</div>
+
+---
+
+## 💫 About Me
+
+🔵 Aspiring **SOC Analyst** with hands-on experience across the full threat detection and incident response lifecycle  
+🛡️ Experienced with **CrowdStrike Falcon** and **Microsoft Defender for Office 365** in live SOC environments  
+🔍 Passionate about **threat hunting**, **detection engineering**, and **cloud security**  
+📝 I document my SOC journey through writeups on **Medium** — TryHackMe SOC L1 & L2 path  
+🎓 MCA 2026 | Bapuji Institute of Engineering & Technology, Davanagere  
+📍 Karnataka, India  
+
+---
+
+## 🛡️ Tech Stack
+
+### SIEM / EDR
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E31837?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Threat Intelligence & Detection
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E10915?style=for-the-badge&logo=mitre&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Scripting & Cloud
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [Cloud Access Privilege Auditor](https://github.com/MIKEYSAN040/cloud-access-privilege-auditor)
+> Automated AWS IAM auditing tool with MITRE ATT&CK mapping (T1078, T1098, T1530, T1556)
+- Risk-classifies IAM findings as CRITICAL / HIGH / MEDIUM / LOW
+- Color-coded Excel reports via OpenPyXL + live Flask dashboard on AWS EC2
+- Built with: `Python` `Boto3` `Flask` `OpenPyXL` `AWS EC2`
+
+### 🤖 Sentinel AI — Phishing URL Detection System
+> ML-based Flask application that classifies URLs as phishing or legitimate in real time
+- Feature extraction pipeline: URL structure, domain age, lexical entropy, path patterns
+- Built with: `Python` `Flask` `Machine Learning` `Threat Intelligence`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIKEYSAN040&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MIKEYSAN040&theme=vue-dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIKEYSAN040&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| 🏆 SOC Level 1 & 2 | TryHackMe | May 2026 |
+| 🔐 Ethical Hacking | VTU Belagavi | May 2026 |
+| ☁️ Cloud Computing | VTU Belagavi | May 2026 |
+
+---
+
+## ✍️ Latest SOC Writeups
+
+📌 I publish hands-on SOC analysis writeups covering TryHackMe SOC L1 & L2 — threat detection, phishing analysis, alert triage, and incident response.
+
+👉 **[Read on Medium →](https://medium.com/@darshan331740_89257)**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/darshank404)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@darshan331740_89257)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/Darshan331740)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=MIKEYSAN040&icon=0&color=0)
+
+*"Detection is not about finding needles in haystacks — it's about understanding why the needle is there."*
+
+</div>
