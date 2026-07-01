@@ -2,7 +2,7 @@
 <div align="center">
 👋 Hi, I'm Darshan K
 
-SOC Analyst | Blue Team | Threat Detection & Incident Response
+SOC Analyst | Threat Detection & Incident Response
 
 Show Image
 Show Image
