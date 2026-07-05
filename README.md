@@ -98,7 +98,7 @@
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=MIKEYSAN040&icon=0&color=0)
+
 
 *"Detection is not about finding needles in haystacks — it's about understanding why the needle is there."*
 
