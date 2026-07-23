@@ -58,6 +58,23 @@
 - Feature extraction pipeline: URL structure, domain age, lexical entropy, path patterns
 - Built with: `Python` `Flask` `Machine Learning` `Threat Intelligence`
 
+## 🔐 Featured Projects
+
+### 🛡️ [Identity Threat Detection System](https://github.com/MIKEYSAN040/identity-threat-detection)
+Detects identity-based attack patterns across AWS CloudTrail logs.
+- **Stack:** Boto3, Flask, Pandas, Chart.js
+- **Results:** Detects 5 attack patterns · 100% recall · zero false positives on synthetic dataset
+
+### 🖥️ [Enterprise Windows Log Analyzer](https://github.com/MIKEYSAN040/enterprise-windows-log-analyzer)
+Parses and analyzes Windows Event Logs (EVTX) to surface adversary activity mapped to MITRE ATT&CK.
+- **Stack:** Python, python-evtx, OpenPyXL
+- **Results:** Validated against EVTX-ATTACK-SAMPLES · 75% true-positive rate (9/12) · 0% false positives
+
+### 📡 [Network Traffic Anomaly Detector](https://github.com/MIKEYSAN040/network_traffic_anomaly_detector)
+Flags network-based attack behavior from packet captures.
+- **Stack:** Scapy, OpenPyXL
+- **Detects:** Port scans (T1046), ARP spoofing (T1557.002), SYN floods (T1498.001), C2 beaconing (T1071)
+- **Results:** 4/4 detection accuracy · 0 false positives across 150+ normal sessions
 ---
 
 
@@ -74,6 +91,7 @@
 | Technical Introduction to Cybersecurity 3.0 | Fortinet | Jul 2026 |
 | Introduction to the Threat Landscape 3.0 | Fortinet | Jul 2026 |
 | Microsoft Security Essentials | LinkedIn Learning | Jul 2026 |
+| Cisco Networking Basics | cisco | Jul 2026 |
 ---
 
 ## ✍️ Latest SOC Writeups
